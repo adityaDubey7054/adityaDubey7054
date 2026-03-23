@@ -70,13 +70,7 @@ Data Structures & Algorithms, OOPs, DBMS
 
 ---
 
-## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityaDubey7054\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaDubey7054\&layout=compact\&theme=radical)
-
----
 
 ## 🏆 Achievements
 
